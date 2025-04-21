@@ -13,4 +13,4 @@ Info:
 
 - The battery leads should be cut and soldered to the corresponding magnetic connector terminals (view the PCB to see which pin is which). The battery can then be slotted into the battery holder - the magnetic conncetor glued into the battery lid and the lid blued into the holder. Creating a standalone battery pack. Note: the battery should be relatively loose in the holder when placing it in, li-po batteries may expands and this msut be accounted for.
 
-- The button can be placed into the recess in the wall of the main housing before the PCB is inserted, afterwhich it will be held in place by the button.
+- The button can be placed into the recess in the wall of the main housing before the PCB is inserted, after which it will be held in place by the button.
