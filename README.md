@@ -1,6 +1,6 @@
 # Vibro-Tactile Stimulation Device Design Repository
 
-This repository contains all of the hardware and software files required to manufacture a device capable of delivering low-latency vibro-tactile stimulation.
+This repository contains all of the hardware and software files required to manufacture a prototype device capable of delivering low-latency vibro-tactile stimulation.
 
 The device uses Enhanced Shockburst to wirelessly trigger a vibration via a piezoelectric TDK powerhap 1313 haptic actuator. From button press on a peripheral NRF52 device to actuation on this receiving device takes ~1.3ms.
 
