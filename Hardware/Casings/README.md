@@ -2,7 +2,11 @@
 
 This folder contains the required 3D models for the casings of the device.
 
-Info:
+## WARNING: 
+Ensure the cables connected to the actuator are not in direct contact with the skin without insulation. This can cause significant EEG artefacts and even irritation when VTS is applied to certain areas of the body. The wires should be insulated and the terminals facing away from the skin, ideally further insulated with glue or some other method
+
+
+## Extra Information:
 - All of the above was printed in PETG for the prototype
 
 - 4 M2 screws and 2 M2 hex standoffs (6mm) were used to close the main casing
