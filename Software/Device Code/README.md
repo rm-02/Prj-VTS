@@ -2,7 +2,7 @@ The .zip file included here is the source code for the VTS device's microcontrol
 
 To upload this to the NRF52 devkit: 
 - Connect the devkit to your PC
-- Double click the USER button on the devkit, next to the USB-C port and a folder should appear on your PC
+- Double click the RST button on the devkit (next to the USB-C port) and a folder should appear on your PC
 - Drag and drop the zephyr.uf2 file (from VTS_Device_Code --> build --> zephyr) from your PC to the folder
 - Once complete, press the USER button again to reset the device, it should now be programmed and ready to be used
 
