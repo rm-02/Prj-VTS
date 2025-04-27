@@ -5,10 +5,10 @@ This folder contains the required 3D models for the casings of the device.
 Info:
 - All of the above was printed in PETG for the prototype
 
-- 2 M2 screws and 2 M2 hex standoffs (6mm) were used to close the main casing
+- 4 M2 screws and 2 M2 hex standoffs (6mm) were used to close the main casing
 
 - The charger casing has a small mounting postion for a magnetic connector, compatible with the battery packs. The charger used for the prototype was 	
-Sparkfun's PRT-12711 as it was readily available, though any single cell li-po charger with max current of 800mA should work.
+Sparkfun's PRT-12711 as it was readily available, though any single cell li-po charger with max current of 800mA should work. Again, M2 screws and standoffs were used to close the casing.
 
 - Some designs have a triangle fin attached for ease of 3D printing which can then be snapped off and filed till smooth.
   
