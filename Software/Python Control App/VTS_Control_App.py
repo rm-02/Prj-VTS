@@ -164,10 +164,10 @@ class ESBSenderApp:
                 if not (10 <= Frequency <= 300):
                     raise ValueError("Frequency must be between 10 and 300")
                 period = 1/Frequency
-                if not ((0 < period*Cycles <= 0.15) and (Cycles > 0)):
+                if not ((0 < period*Cycles <= 0.09) and (Cycles > 0)):
                     raise ValueError("\n\nYou Must Have More Than 0 Cycles & Cycles/Frequency Cannot Exceed 90ms.\n\nIt is expected that "
                     "VTS may be applied every 90ms. Setting a wave longer than this means the VTS will never turn off.\n\nIf this is "
-                    "incorrect, this rule is at line 169 to be edited")
+                    "incorrect, this rule is at line 167 to be edited")
 
             except ValueError as ve:
                 messagebox.showerror("Input Error", f"Invalid input: {ve}")
