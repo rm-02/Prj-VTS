@@ -4,6 +4,12 @@ USB_and_Button Example allows the NRF52 to be controlled by the provided Python 
 
 Time_Transmitter will simply make the NRF52 send a VTS enable packet over ESB every 90ms, useful for stress testing.
 
+VTS triggers are sent by transmitting an ESB payload with the first byte {0x00}
+
+VTS waveform changes are sent by transmitting an ESB payload with the first byte {0x01}
+
+Sleep mode changes are sent by transmitting an ESB payload with the first byte {0x02}
+
 To upload either program to the NRF52 devkit:
 
 - Connect the devkit to your PC
