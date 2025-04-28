@@ -20,7 +20,7 @@ Sparkfun's PRT-12711 as it was readily available, though any single cell li-po c
 
 - The actuator casing serves to increase pressure on the skin (making the vibrations feel stronger) and insulate it, though tape on the area of skin that it is placed may also be necessary to prevent sweat ingress and further insulate the actuator to avoid EEG artefacts. This can then be tightly taped to the skin with appropriate tape or held in place with a strap if using the mountable actuator sleeve.
   
-- The battery leads should be cut and soldered to the corresponding magnetic connector terminals (view the PCB to see which pin is which). The battery can then be slotted into the battery holder - the magnetic conncetor glued into the battery lid and the lid glued into the holder, creating a standalone battery pack. Note: the battery should be relatively loose in the holder when placing it in, li-po batteries may expand and this must be accounted for.
+- The battery leads should be cut and soldered to the corresponding magnetic connector terminals (view the PCB to see which pin is which, there are 2 ground pins and one VDD, the battery used had a TH pin that was unused). The battery can then be slotted into the battery holder - the magnetic conncetor glued into the battery lid and the lid glued into the holder, creating a standalone battery pack. Note: the battery should be relatively loose in the holder when placing it in, li-po batteries may expand and this must be accounted for.
 
 - The button can be placed into the recess in the wall of the main housing before the PCB is inserted, after which it will be held in place by the button.
 
