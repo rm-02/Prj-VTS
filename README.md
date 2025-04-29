@@ -8,7 +8,7 @@ The device uses a magnetic battery connector to allow for easy to use hot swappa
 
 From full charge to dead the battery lasts ~9.5 hours when delivering 40ms of 100Hz vibration every 90ms.
 
-Beware the device drives the piezo electric actuator at a high voltage, it is therefore imperative that it is handled safely. Please ensure the actuator leads are insulated from the skin, remove the battery before opening the device for any reason, and avoid water ingress into the case/actuator.
+Bare in mind that the device drives the piezo electric actuator at a high voltage, it is therefore imperative that it is handled safely. Please ensure the actuator leads are insulated from the skin, remove the battery before opening the device for any reason, and avoid water ingress into the case/actuator.
 
 Below is an image of the assembled device, showing the dimensions when the battery is connected (in mm).
 
