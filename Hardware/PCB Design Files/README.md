@@ -11,4 +11,6 @@ As mentioned in the root of the repo, the actuator chosen was powerhap TDK's 131
 
 The + symbols in the silkscreen next to the magnetic connector and JST connector denote the positive pins
 
+The prototype board was assembled with a reflow oven, using solder paste with reflow temperature 235 degrees celsius. The magnetic connectors were then hand soldered after as they may melt in the oven
+
 ![Image](https://github.com/user-attachments/assets/3a3c3183-fe06-41f8-91d6-e1c6526b523f)
