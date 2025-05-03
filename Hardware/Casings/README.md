@@ -3,7 +3,7 @@
 This folder contains the required 3D models for the casings of the device.
 
 ## WARNING: 
-Ensure the cables connected to the actuator are not in direct contact with the skin without insulation. This can cause significant EEG artefacts and even irritation when VTS is applied to certain areas of the body. The wires should be insulated and the terminals facing away from the skin, ideally further insulated with glue or some other method
+Ensure the cables connected to the actuator are not in direct contact with the skin without insulation. This can cause significant EEG artefacts and even irritation when VTS is applied to certain areas of the body. The wires should be insulated and the terminals facing away from the skin, ideally further insulated with glue or some other method. Tape should be applied to the skin before the actuator is taped to ensure it is fully insulated and no sweat will reach the wires.
 
 
 ## Extra Information:
